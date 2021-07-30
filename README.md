@@ -46,7 +46,7 @@
 
 <h1 align="left">My GitHub Profile Information Stats</h1>
 <p style="margin-right:50px"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vuthysreang&show_icons=true&locale=en&layout=compact" alt="vuthysreang"/></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vuthysreang&show_icons=true&locale=en" alt="vuthysreang" width="500"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vuthysreang&show_icons=true&locale=en" alt="vuthysreang"/></p>
 
 <br/>
 <br/>
