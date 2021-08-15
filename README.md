@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **vuthysreang.zevo@gmail.com**
 
-- 📄 Know about my experiences **[Vuthy Portfolio](vuthysreang.netlify.app)**
+- 📄 Know about my experiences **[Vuthy Portfolio](https://vuthysreang.netlify.app/)**
 
 - ⚡ Fun fact **I think, I'm funny 😎**
 </div>
