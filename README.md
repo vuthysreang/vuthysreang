@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **.........**
 
-- 🌱 I’m currently learning **Laravel, VueJS, Nuxt, NestJS, etc.**
+- 🌱 I’m currently learning **React, Nestjs, etc.**
 
-- 💬 Ask me about **ExpressJS, Laravel, NestJS, VueJS, Docker, etc.**
+- 💬 Ask me about **ExpressJS, React, Docker, etc.**
 
 - 📫 How to reach me **vuthysreang.zevo@gmail.com**
 
