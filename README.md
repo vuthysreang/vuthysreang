@@ -14,7 +14,7 @@
 
 - 📫 How to reach me [**vuthysreang.zevo@gmail.com**](mailto:vuthysreang.zevo@gmail.com) | [**📞 +85598820725**](tel:+85598820725) | [**📞 +85577768478**](tel:+85577768478) 
 
-- 📄 Know about my experiences **[VuthySREANG Portfolio](https://vuthysreang.netlify.app/)**
+- 📄 Know about my experiences **[VuthySREANG LinkedIn](https://www.linkedin.com/in/vuthy-sreang/)**
 
 - ⚡ Fun fact **I think, I'm funny 😎**
 </div>
