@@ -3,14 +3,14 @@
 
 # About Me
 
-<h2 align="left">Hi 👋, I'm Vuthy, A.K.A Zevo</h2>
+<h2 align="left">Hi 👋, I'm Vuthy SREANG, A.K.A Zevo</h2>
 <h3 align="left" style="width:85%"><i>Experienced Full-Stack web developer with a passion for all aspects of the software development life cycle. Proven team collaborator and self-managing individual for independent projects.</i></h3>
 
 - 🔭 I’m currently working on **.........**
 
 - 🌱 I’m currently learning **React, Nestjs, etc.**
 
-- 💬 Ask me about **ExpressJS, React, Docker, etc.**
+- 💬 Ask me about **ExpressJS, NestJS, React, Docker, etc.**
 
 - 📫 How to reach me **vuthysreang.zevo@gmail.com**
 
