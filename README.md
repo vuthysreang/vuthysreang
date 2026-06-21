@@ -34,7 +34,7 @@
   <a href="https://linkedin.com/in/vuthy-sreang" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/vuthysreang.zevo" target="_blank">
+  <a href="https://www.facebook.com/VuthySREANG.me/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:vuthysreang.zevo@gmail.com" target="_blank">
