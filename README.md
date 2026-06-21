@@ -20,7 +20,7 @@
 <p><i>Experienced Full-Stack web developer with a passion for all aspects of the software development life cycle. Proven team collaborator and a self-managing individual for independent projects.</i></p>
 
 - 🔭 I’m currently working on **full-stack web applications**
-- 🌱 I’m currently learning **🤫 a secret side-quest... stay tuned ✨**
+- 🌱 I’m currently learning **🤫 ...**
 - 💬 Ask me about **Front-End, Back-End, APIs, Databases & DevOps**
 - ⚡ Fun fact: **I think I'm funny 😎**
 
@@ -114,32 +114,36 @@ const vuthy = {
 
 <table align="center">
   <tr>
-    <td align="center" width="135">
+    <td align="center" width="160">
       <a href="https://claude.ai/" target="_blank" title="Claude">
-        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" width="46" height="46" alt="Claude" />
+        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" width="52" height="52" alt="Claude" />
       </a>
-      <br/><sub><b>Claude</b></sub>
+      <br/><b>Claude</b>
+      <br/><sub>AI pair-programmer</sub>
     </td>
-    <td align="center" width="135">
+    <td align="center" width="160">
       <a href="https://openai.com/codex/" target="_blank" title="OpenAI Codex">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/white" />
-          <img src="https://cdn.simpleicons.org/openai/black" width="44" height="44" alt="OpenAI Codex" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openai.png" />
+          <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/openai.png" width="52" height="52" alt="OpenAI Codex" />
         </picture>
       </a>
-      <br/><sub><b>Codex</b></sub>
+      <br/><b>Codex</b>
+      <br/><sub>OpenAI coding agent</sub>
     </td>
-    <td align="center" width="135">
+    <td align="center" width="160">
       <a href="https://antigravity.google/" target="_blank" title="Gemini Antigravity">
-        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" width="46" height="46" alt="Gemini Antigravity" />
+        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" width="52" height="52" alt="Gemini Antigravity" />
       </a>
-      <br/><sub><b>Gemini Antigravity</b></sub>
+      <br/><b>Gemini Antigravity</b>
+      <br/><sub>Agentic IDE</sub>
     </td>
-    <td align="center" width="135">
+    <td align="center" width="160">
       <a href="https://notebooklm.google.com/" target="_blank" title="NotebookLM">
-        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/notebooklm-color.svg" width="46" height="46" alt="NotebookLM" />
+        <img src="https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=128" width="50" height="50" alt="NotebookLM" />
       </a>
-      <br/><sub><b>NotebookLM</b></sub>
+      <br/><b>NotebookLM</b>
+      <br/><sub>AI research notebook</sub>
     </td>
   </tr>
 </table>
