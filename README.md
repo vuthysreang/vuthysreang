@@ -1,10 +1,13 @@
 <!-- HEADER / BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6A11CB&height=200&section=header&text=Vuthy%20SREANG&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=%E2%9C%A8%20Full-Stack%20Web%20Developer%20%E2%80%A2%20A.K.A%20Zevo%20%E2%9C%A8&descSize=18&descAlignY=58" alt="header banner" />
+
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B+I'm+Vuthy+SREANG+(Zevo);Experienced+Full-Stack+Web+Developer;Front-End+%7C+Back-End+%7C+DevOps;Always+learning+something+new+%F0%9F%9A%80" alt="Vuthy SREANG" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=vuthysreang&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <a href="https://github.com/vuthysreang?tab=followers"><img src="https://img.shields.io/github/followers/vuthysreang?label=Followers&style=social" alt="Followers" /></a>
   </p>
 
 </div>
@@ -24,6 +27,10 @@
 📫 **Reach me:** [vuthysreang.zevo@gmail.com](mailto:vuthysreang.zevo@gmail.com) &nbsp;•&nbsp; 📞 [+855 98 820 725](tel:+85598820725) &nbsp;•&nbsp; 📞 [+855 77 768 478](tel:+85577768478)
 
 📄 **Experience:** [Vuthy SREANG on LinkedIn](https://www.linkedin.com/in/vuthy-sreang/)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</div>
 
 ---
 
@@ -131,5 +138,9 @@
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/vuthysreang">Vuthy SREANG</a></i>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:0E75B6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=68&animation=twinkling" alt="footer banner" />
+
+  <i>⭐️ From <a href="https://github.com/vuthysreang">Vuthy SREANG</a> — let's build something great together!</i>
+
 </div>
