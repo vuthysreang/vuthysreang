@@ -29,7 +29,7 @@
 📄 **Experience:** [Vuthy SREANG on LinkedIn](https://www.linkedin.com/in/vuthy-sreang/)
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev quote" />
+  <h3>🌲 <i>Build · Learn · Repeat</i> 🌱</h3>
 </div>
 
 ---
