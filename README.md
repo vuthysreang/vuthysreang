@@ -112,10 +112,37 @@ const vuthy = {
 
 **🤖 AI Tools**
 
-[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai/)
-[![ChatGPT Codex](https://img.shields.io/badge/ChatGPT_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/codex/)
-[![Gemini Antigravity](https://img.shields.io/badge/Gemini_Antigravity-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://antigravity.google/)
-[![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=googlenotebooklm&logoColor=white)](https://notebooklm.google.com/)
+<table align="center">
+  <tr>
+    <td align="center" width="135">
+      <a href="https://claude.ai/" target="_blank" title="Claude">
+        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" width="46" height="46" alt="Claude" />
+      </a>
+      <br/><sub><b>Claude</b></sub>
+    </td>
+    <td align="center" width="135">
+      <a href="https://openai.com/codex/" target="_blank" title="OpenAI Codex">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/white" />
+          <img src="https://cdn.simpleicons.org/openai/black" width="44" height="44" alt="OpenAI Codex" />
+        </picture>
+      </a>
+      <br/><sub><b>Codex</b></sub>
+    </td>
+    <td align="center" width="135">
+      <a href="https://antigravity.google/" target="_blank" title="Gemini Antigravity">
+        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" width="46" height="46" alt="Gemini Antigravity" />
+      </a>
+      <br/><sub><b>Gemini Antigravity</b></sub>
+    </td>
+    <td align="center" width="135">
+      <a href="https://notebooklm.google.com/" target="_blank" title="NotebookLM">
+        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/notebooklm-color.svg" width="46" height="46" alt="NotebookLM" />
+      </a>
+      <br/><sub><b>NotebookLM</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
