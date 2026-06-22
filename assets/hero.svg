@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" fill="none" role="img" aria-label="Vuthy SREANG — Full-Stack Web Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081c10"/>
+      <stop offset="0.5" stop-color="#1b4332"/>
+      <stop offset="1" stop-color="#2d6a4f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="38%" r="65%">
+      <stop offset="0" stop-color="#52b788" stop-opacity="0.40"/>
+      <stop offset="1" stop-color="#52b788" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#74c69d" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#95d5b2" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#74c69d" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- pulsing center glow -->
+  <rect width="1200" height="300" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- drifting aurora ribbon -->
+  <ellipse cx="600" cy="70" rx="520" ry="40" fill="url(#aurora)" opacity="0.5">
+    <animateTransform attributeName="transform" type="translate" values="-60 0; 60 0; -60 0" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.25;0.6;0.25" dur="7s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- drifting fireflies -->
+  <g fill="#95d5b2">
+    <circle cx="90" cy="250" r="3.5"><animateTransform attributeName="transform" type="translate" values="0 0;10 -200;0 0" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="270" r="2.5"><animateTransform attributeName="transform" type="translate" values="0 0;-14 -230;0 0" dur="13s" begin="-2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="13s" begin="-2s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="240" r="4"><animateTransform attributeName="transform" type="translate" values="0 0;16 -180;0 0" dur="11s" begin="-4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="11s" begin="-4s" repeatCount="indefinite"/></circle>
+    <circle cx="470" cy="265" r="2.8"><animateTransform attributeName="transform" type="translate" values="0 0;-10 -210;0 0" dur="12s" begin="-1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.85;0" dur="12s" begin="-1s" repeatCount="indefinite"/></circle>
+    <circle cx="740" cy="255" r="3.2"><animateTransform attributeName="transform" type="translate" values="0 0;12 -190;0 0" dur="10.5s" begin="-3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="10.5s" begin="-3s" repeatCount="indefinite"/></circle>
+    <circle cx="870" cy="270" r="2.6"><animateTransform attributeName="transform" type="translate" values="0 0;-16 -240;0 0" dur="14s" begin="-5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="14s" begin="-5s" repeatCount="indefinite"/></circle>
+    <circle cx="990" cy="245" r="4.2"><animateTransform attributeName="transform" type="translate" values="0 0;14 -175;0 0" dur="11.5s" begin="-2.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="11.5s" begin="-2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1100" cy="265" r="2.8"><animateTransform attributeName="transform" type="translate" values="0 0;-12 -215;0 0" dur="12.5s" begin="-4.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.85;0" dur="12.5s" begin="-4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="610" cy="275" r="3" fill="#d8f3dc"><animateTransform attributeName="transform" type="translate" values="0 0;8 -250;0 0" dur="15s" begin="-6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.95;0" dur="15s" begin="-6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- title -->
+  <g font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="148" font-size="56" font-weight="700" fill="#ffffff" letter-spacing="1">Vuthy SREANG
+      <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
+    </text>
+    <text x="600" y="192" font-size="21" font-weight="500" fill="#b7e4c7" letter-spacing="4">FULL-STACK WEB DEVELOPER &#183; ZEVO
+      <animate attributeName="opacity" values="0;0;1" dur="2.6s" fill="freeze"/>
+    </text>
+  </g>
+
+  <!-- animated underline -->
+  <rect x="470" y="208" width="260" height="3" rx="1.5" fill="#52b788">
+    <animate attributeName="width" values="0;260" dur="1.6s" begin="1s" fill="freeze"/>
+    <animate attributeName="x" values="600;470" dur="1.6s" begin="1s" fill="freeze"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="2.6s" repeatCount="indefinite"/>
+  </rect>
+</svg>

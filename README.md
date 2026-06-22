@@ -1,5 +1,5 @@
-<!-- HEADER / BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:74C69D&height=200&section=header&text=Vuthy%20SREANG&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=%F0%9F%8C%B2%20Full-Stack%20Web%20Developer%20%E2%80%A2%20A.K.A%20Zevo%20%F0%9F%8C%B2&descSize=18&descAlignY=58" alt="header banner" />
+<!-- HEADER / BANNER (animated SVG — drifting fireflies + aurora) -->
+<img width="100%" src="./assets/hero.svg" alt="Vuthy SREANG — Full-Stack Web Developer" />
 
 <div align="center">
 
@@ -9,6 +9,10 @@
     <img src="https://komarev.com/ghpvc/?username=vuthysreang&label=Profile%20views&color=2e8b57&style=flat" alt="Profile views" />
     <a href="https://github.com/vuthysreang?tab=followers"><img src="https://img.shields.io/github/followers/vuthysreang?label=Followers&style=social" alt="Followers" /></a>
   </p>
+
+  <a href="https://vuthysreang.github.io/vuthysreang/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%B2_Interactive_Page-Move_%26_click_the_forest-1B4332?style=for-the-badge&labelColor=2D6A4F" alt="Interactive page" />
+  </a>
 
 </div>
 
